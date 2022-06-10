@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/custom_email_icon.xml" value="0.252" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/custom_lock_outline.xml" value="0.252" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/custom_person_outline.xml" value="0.252" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.12" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.252" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_perm_identity_24.xml" value="0.252" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_email_focused.xml" value="0.252" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/lock_focused.xml" value="0.252" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/person_outline_focused.xml" value="0.252" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_edit_profile_acitivity.xml" value="0.26875" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_profile_picture.xml" value="0.25" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_registration.xml" value="0.1" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_side_menu.xml" value="0.26875" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/layout/app_bar_side_menu.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/layout/content_side_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/layout/custom_weather_card.xml" value="0.33" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_b_l_e.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_edit_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_gallery.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_home.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_live_stream.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_weather.xml" value="0.33" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/layout/nav_header_side_menu.xml" value="0.33" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/menu/activity_side_menu_drawer.xml" value="0.5" />
+        <entry key="..\:/Users/Agnesh S Kumar/AndroidStudioProjects/MyApplication/app/src/main/res/menu/side_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Dashboard"/>
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_baseline_person_pin_24"
+            android:title="Profile"/>
+        <item
+            android:id="@+id/nav_weather"
+            android:icon="@drawable/ic_baseline_wb_sunny_24"
+            android:title="Weather" />
+        <item
+            android:id="@+id/nav_ble"
+            android:icon="@drawable/ic_baseline_bluetooth_searching_24"
+            android:title="Find &amp; Connect"/>
+        <item
+            android:id="@+id/nav_live_stream"
+            android:icon="@drawable/ic_baseline_ondemand_video_24"
+            android:title="Live Stream"/>
+
+    </group>
+
+    <item android:title="More">
+        <menu>
+            <item
+                android:id="@+id/nav_version"
+                android:icon="@drawable/ic_baseline_perm_device_information_24"
+                android:title="Version" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_baseline_power_settings_new_24"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>
